@@ -1,0 +1,25 @@
+Brand Family,Spec Score,Rating,Price,Price Range,Processor Family,RAM_GB,Storage_GB
+Sharp,87.0,4.25,"29,990.00",12K-25K(High),Snapdragon,12.0,256.0
+Nokia,87.0,4.43,"42,494.50",12K-25K(High),Snapdragon,8.0,128.0
+OnePlus,83.8,4.29,"44,991.20",12K-25K(High),Snapdragon,12.0,256.0
+Sony Xperia,83.33,4.48,"97,326.33",12K-25K(High),Snapdragon,12.0,64.0
+Nubia,83.0,4.35,"37,990.00",12K-25K(High),Snapdragon,8.0,256.0
+Tesla,82.0,4.2,"69,999.00",12K-25K(High),Unknown,16.0,512.0
+Moondrop,81.0,4.6,"49,990.00",12K-25K(High),Dimensity,12.0,256.0
+Motorola,80.07,4.44,"21,064.00",12K-25K(High),Dimensity,8.0,128.0
+Xiaomi,79.73,4.47,"61,459.13",12K-25K(High),Dimensity,8.0,128.0
+Tecno,79.5,4.34,"20,119.50",12K-25K(High),Dimensity,8.0,256.0
+Samsung,78.24,4.36,"42,944.95",12K-25K(High),Unknown,6.0,128.0
+Vivo,77.48,4.38,"32,043.28",12K-25K(High),Dimensity,8.0,256.0
+Oppo,77.27,4.25,"24,172.64",12K-25K(High),Snapdragon,8.0,256.0
+Lava,77.0,4.05,"12,999.00",12K-25K(High),Dimensity,8.0,256.0
+Realme,76.87,4.24,"28,091.80",12K-25K(High),Unknown,8.0,256.0
+Infinix,76.75,4.38,"15,680.31",12K-25K(High),Helio,8.0,128.0
+Honor,76.0,4.55,"12,990.00",12K-25K(High),Helio,8.0,256.0
+Poco,75.86,4.41,"24,277.00",12K-25K(High),Unknown,6.0,256.0
+Unknown,75.23,4.34,"53,417.23",12K-25K(High),Unknown,8.0,128.0
+Apple,74.8,4.39,"95,973.80",12K-25K(High),Bionic,8.0,128.0
+Google,74.0,4.4,"49,990.00",12K-25K(High),Tensor,8.0,128.0
+IQOO,74.0,4.38,"23,323.33",12K-25K(High),Unknown,8.0,256.0
+HTC,61.0,4.4,"10,990.00",8K-12K(High),Helio,4.0,64.0
+Itel,60.83,4.43,"7,344.50",6K-8K(Mid),Unisoc,4.0,128.0
